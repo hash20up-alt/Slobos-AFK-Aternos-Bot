@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "1onlyhashy.aternos.me:26868",
+    "port": 26868,
     "version": "",
     "try-creative": false
   },
